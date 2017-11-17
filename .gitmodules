@@ -1,0 +1,12 @@
+[submodule "spring-demo"]
+	path = spring-demo
+	url = https://github.com/dmxiaoshen/spring-demo.git
+[submodule "spring-boot-demo"]
+	path = spring-boot-demo
+	url = https://github.com/dmxiaoshen/spring-boot-demo.git
+[submodule "spring-cloud-demo"]
+	path = spring-cloud-demo
+	url = https://github.com/dmxiaoshen/spring-cloud-demo.git
+[submodule "spring-cloud-config-repo-demo"]
+	path = spring-cloud-config-repo-demo
+	url = https://github.com/dmxiaoshen/spring-cloud-config-repo-demo.git
