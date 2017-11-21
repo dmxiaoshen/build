@@ -10,6 +10,3 @@
 [submodule "spring-cloud-config-repo-demo"]
 	path = spring-cloud-config-repo-demo
 	url = https://github.com/dmxiaoshen/spring-cloud-config-repo-demo.git
-[submodule "dmxiaoshen.github.io"]
-	path = dmxiaoshen.github.io
-	url = https://github.com/dmxiaoshen/dmxiaoshen.github.io.git
